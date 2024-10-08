@@ -13,7 +13,8 @@ criaCartao(
 criaCartao(
     'Grandes palavras',
     'Qual a maior palavra do Brasil?',
-    'pneumoultramicroscopicossilicovulcanoconiótico'
+    'pneumoultramicroscopi
+    cossilicovulcanoconiótico'
 )
 
 criaCartao(
